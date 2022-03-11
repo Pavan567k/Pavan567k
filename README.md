@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pavan567k
 - 👀 I’m interested in working on Projects
-- 🌱 I learned Python and clC
+- 🌱 I learned Python and C
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ... pavankalyan567k@gmail.com
 
